@@ -1,0 +1,30 @@
+﻿@{
+    ViewBag.Title = "Ürün Ekle";
+    Layout = "~/Views/Shared/_MainLayout.cshtml";
+}
+
+<form class="form-group" method="post" action="@Url.Action("Ekle", "Urun")">
+    <div>
+        <label>ÜRÜN ADI</label>
+        <input type="text" class="form-control" name="Urunad" />
+    </div>
+    <div>
+        <label>MARKASI</label>
+        <input type="text" class="form-control" name="Marka" />
+    </div>
+    <div>
+        <label>KATEGORİ SEÇİNİZ</label>
+        <input type="text" class="form-control" name="UrunKategori" />
+    </div>
+    <div>
+        <label>FİYATI</label>
+        <input type="text" class="form-control" name="Fiyat" />
+    </div>
+    <div>
+        <label>STOK ADETİ</label>
+        <input type="text" class="form-control" name="Stok" />
+    </div>
+    <div style="margin-top:15px">
+        <button type="submit" class="btn btn-info">ÜRÜN EKLE</button>
+    </div>
+</form>

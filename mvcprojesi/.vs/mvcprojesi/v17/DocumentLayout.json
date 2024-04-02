@@ -1,0 +1,252 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Work\u0026Game Station\\Desktop\\mvcprojesi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5C67E301-EBFC-43C7-9253-BC16AD901C46}|mvcprojesi\\mvcprojesi.csproj|C:\\Users\\Work\u0026Game Station\\Desktop\\mvcprojesi\\mvcprojesi\\views\\urun\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C67E301-EBFC-43C7-9253-BC16AD901C46}|mvcprojesi\\mvcprojesi.csproj|solutionrelative:mvcprojesi\\views\\urun\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C67E301-EBFC-43C7-9253-BC16AD901C46}|mvcprojesi\\mvcprojesi.csproj|C:\\Users\\Work\u0026Game Station\\Desktop\\mvcprojesi\\mvcprojesi\\views\\musteri\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C67E301-EBFC-43C7-9253-BC16AD901C46}|mvcprojesi\\mvcprojesi.csproj|solutionrelative:mvcprojesi\\views\\musteri\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C67E301-EBFC-43C7-9253-BC16AD901C46}|mvcprojesi\\mvcprojesi.csproj|C:\\Users\\Work\u0026Game Station\\Desktop\\mvcprojesi\\mvcprojesi\\views\\kategori\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C67E301-EBFC-43C7-9253-BC16AD901C46}|mvcprojesi\\mvcprojesi.csproj|solutionrelative:mvcprojesi\\views\\kategori\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C67E301-EBFC-43C7-9253-BC16AD901C46}|mvcprojesi\\mvcprojesi.csproj|C:\\Users\\Work\u0026Game Station\\Desktop\\mvcprojesi\\mvcprojesi\\controllers\\uruncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C67E301-EBFC-43C7-9253-BC16AD901C46}|mvcprojesi\\mvcprojesi.csproj|solutionrelative:mvcprojesi\\controllers\\uruncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C67E301-EBFC-43C7-9253-BC16AD901C46}|mvcprojesi\\mvcprojesi.csproj|C:\\Users\\Work\u0026Game Station\\Desktop\\mvcprojesi\\mvcprojesi\\views\\urun\\urunekle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C67E301-EBFC-43C7-9253-BC16AD901C46}|mvcprojesi\\mvcprojesi.csproj|solutionrelative:mvcprojesi\\views\\urun\\urunekle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C67E301-EBFC-43C7-9253-BC16AD901C46}|mvcprojesi\\mvcprojesi.csproj|C:\\Users\\Work\u0026Game Station\\Desktop\\mvcprojesi\\mvcprojesi\\views\\shared\\_mainlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C67E301-EBFC-43C7-9253-BC16AD901C46}|mvcprojesi\\mvcprojesi.csproj|solutionrelative:mvcprojesi\\views\\shared\\_mainlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C67E301-EBFC-43C7-9253-BC16AD901C46}|mvcprojesi\\mvcprojesi.csproj|C:\\Users\\Work\u0026Game Station\\Desktop\\mvcprojesi\\mvcprojesi\\views\\musteri\\yenimusteri.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C67E301-EBFC-43C7-9253-BC16AD901C46}|mvcprojesi\\mvcprojesi.csproj|solutionrelative:mvcprojesi\\views\\musteri\\yenimusteri.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C67E301-EBFC-43C7-9253-BC16AD901C46}|mvcprojesi\\mvcprojesi.csproj|c:\\users\\work\u0026game station\\desktop\\mvcprojesi\\mvcprojesi\\views\\kategori\\yenikategori.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C67E301-EBFC-43C7-9253-BC16AD901C46}|mvcprojesi\\mvcprojesi.csproj|solutionrelative:mvcprojesi\\views\\kategori\\yenikategori.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C67E301-EBFC-43C7-9253-BC16AD901C46}|mvcprojesi\\mvcprojesi.csproj|C:\\Users\\Work\u0026Game Station\\Desktop\\mvcprojesi\\mvcprojesi\\views\\musteri\\musterigetir.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C67E301-EBFC-43C7-9253-BC16AD901C46}|mvcprojesi\\mvcprojesi.csproj|solutionrelative:mvcprojesi\\views\\musteri\\musterigetir.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C67E301-EBFC-43C7-9253-BC16AD901C46}|mvcprojesi\\mvcprojesi.csproj|C:\\Users\\Work\u0026Game Station\\Desktop\\mvcprojesi\\mvcprojesi\\controllers\\mustericontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C67E301-EBFC-43C7-9253-BC16AD901C46}|mvcprojesi\\mvcprojesi.csproj|solutionrelative:mvcprojesi\\controllers\\mustericontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C67E301-EBFC-43C7-9253-BC16AD901C46}|mvcprojesi\\mvcprojesi.csproj|c:\\users\\work\u0026game station\\desktop\\mvcprojesi\\mvcprojesi\\models\\entity\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{5C67E301-EBFC-43C7-9253-BC16AD901C46}|mvcprojesi\\mvcprojesi.csproj|solutionrelative:mvcprojesi\\models\\entity\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C67E301-EBFC-43C7-9253-BC16AD901C46}|mvcprojesi\\mvcprojesi.csproj|C:\\Users\\Work\u0026Game Station\\Desktop\\mvcprojesi\\mvcprojesi\\views\\kategori\\kategorigetir.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C67E301-EBFC-43C7-9253-BC16AD901C46}|mvcprojesi\\mvcprojesi.csproj|solutionrelative:mvcprojesi\\views\\kategori\\kategorigetir.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C67E301-EBFC-43C7-9253-BC16AD901C46}|mvcprojesi\\mvcprojesi.csproj|C:\\Users\\Work\u0026Game Station\\Desktop\\mvcprojesi\\mvcprojesi\\controllers\\kategoricontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C67E301-EBFC-43C7-9253-BC16AD901C46}|mvcprojesi\\mvcprojesi.csproj|solutionrelative:mvcprojesi\\controllers\\kategoricontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\Work\u0026Game Station\\Desktop\\mvcprojesi\\mvcprojesi\\Models\\Entity\\Model1.edmx",
+              "RelativeDocumentMoniker": "mvcprojesi\\Models\\Entity\\Model1.edmx",
+              "ToolTip": "C:\\Users\\Work\u0026Game Station\\Desktop\\mvcprojesi\\mvcprojesi\\Models\\Entity\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "mvcprojesi\\Models\\Entity\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-04-02T11:09:25.122Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MusteriController.cs",
+              "DocumentMoniker": "C:\\Users\\Work\u0026Game Station\\Desktop\\mvcprojesi\\mvcprojesi\\Controllers\\MusteriController.cs",
+              "RelativeDocumentMoniker": "mvcprojesi\\Controllers\\MusteriController.cs",
+              "ToolTip": "C:\\Users\\Work\u0026Game Station\\Desktop\\mvcprojesi\\mvcprojesi\\Controllers\\MusteriController.cs",
+              "RelativeToolTip": "mvcprojesi\\Controllers\\MusteriController.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAwwAsAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T10:38:26.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Musterigetir.cshtml",
+              "DocumentMoniker": "C:\\Users\\Work\u0026Game Station\\Desktop\\mvcprojesi\\mvcprojesi\\Views\\Musteri\\Musterigetir.cshtml",
+              "RelativeDocumentMoniker": "mvcprojesi\\Views\\Musteri\\Musterigetir.cshtml",
+              "ToolTip": "C:\\Users\\Work\u0026Game Station\\Desktop\\mvcprojesi\\mvcprojesi\\Views\\Musteri\\Musterigetir.cshtml",
+              "RelativeToolTip": "mvcprojesi\\Views\\Musteri\\Musterigetir.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-01T19:26:23.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Kategorigetir.cshtml",
+              "DocumentMoniker": "C:\\Users\\Work\u0026Game Station\\Desktop\\mvcprojesi\\mvcprojesi\\Views\\Kategori\\Kategorigetir.cshtml",
+              "RelativeDocumentMoniker": "mvcprojesi\\Views\\Kategori\\Kategorigetir.cshtml",
+              "ToolTip": "C:\\Users\\Work\u0026Game Station\\Desktop\\mvcprojesi\\mvcprojesi\\Views\\Kategori\\Kategorigetir.cshtml",
+              "RelativeToolTip": "mvcprojesi\\Views\\Kategori\\Kategorigetir.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-01T18:59:55.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Urunekle.cshtml",
+              "DocumentMoniker": "C:\\Users\\Work\u0026Game Station\\Desktop\\mvcprojesi\\mvcprojesi\\Views\\Urun\\Urunekle.cshtml",
+              "RelativeDocumentMoniker": "mvcprojesi\\Views\\Urun\\Urunekle.cshtml",
+              "ToolTip": "C:\\Users\\Work\u0026Game Station\\Desktop\\mvcprojesi\\mvcprojesi\\Views\\Urun\\Urunekle.cshtml",
+              "RelativeToolTip": "mvcprojesi\\Views\\Urun\\Urunekle.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-01T17:41:16.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "YeniMusteri.cshtml",
+              "DocumentMoniker": "C:\\Users\\Work\u0026Game Station\\Desktop\\mvcprojesi\\mvcprojesi\\Views\\Musteri\\YeniMusteri.cshtml",
+              "RelativeDocumentMoniker": "mvcprojesi\\Views\\Musteri\\YeniMusteri.cshtml",
+              "ToolTip": "C:\\Users\\Work\u0026Game Station\\Desktop\\mvcprojesi\\mvcprojesi\\Views\\Musteri\\YeniMusteri.cshtml",
+              "RelativeToolTip": "mvcprojesi\\Views\\Musteri\\YeniMusteri.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-01T17:31:18.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "YeniKategori.cshtml",
+              "DocumentMoniker": "C:\\Users\\Work\u0026Game Station\\Desktop\\mvcprojesi\\mvcprojesi\\Views\\Kategori\\YeniKategori.cshtml",
+              "RelativeDocumentMoniker": "mvcprojesi\\Views\\Kategori\\YeniKategori.cshtml",
+              "ToolTip": "C:\\Users\\Work\u0026Game Station\\Desktop\\mvcprojesi\\mvcprojesi\\Views\\Kategori\\YeniKategori.cshtml",
+              "RelativeToolTip": "mvcprojesi\\Views\\Kategori\\YeniKategori.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-01T16:02:43.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Work\u0026Game Station\\Desktop\\mvcprojesi\\mvcprojesi\\Views\\Musteri\\Index.cshtml",
+              "RelativeDocumentMoniker": "mvcprojesi\\Views\\Musteri\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Work\u0026Game Station\\Desktop\\mvcprojesi\\mvcprojesi\\Views\\Musteri\\Index.cshtml",
+              "RelativeToolTip": "mvcprojesi\\Views\\Musteri\\Index.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA0AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-01T15:33:44.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Work\u0026Game Station\\Desktop\\mvcprojesi\\mvcprojesi\\Views\\Urun\\Index.cshtml",
+              "RelativeDocumentMoniker": "mvcprojesi\\Views\\Urun\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Work\u0026Game Station\\Desktop\\mvcprojesi\\mvcprojesi\\Views\\Urun\\Index.cshtml",
+              "RelativeToolTip": "mvcprojesi\\Views\\Urun\\Index.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACYAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-01T15:21:48.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UrunController.cs",
+              "DocumentMoniker": "C:\\Users\\Work\u0026Game Station\\Desktop\\mvcprojesi\\mvcprojesi\\Controllers\\UrunController.cs",
+              "RelativeDocumentMoniker": "mvcprojesi\\Controllers\\UrunController.cs",
+              "ToolTip": "C:\\Users\\Work\u0026Game Station\\Desktop\\mvcprojesi\\mvcprojesi\\Controllers\\UrunController.cs",
+              "RelativeToolTip": "mvcprojesi\\Controllers\\UrunController.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAowCUAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T15:19:36.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Work\u0026Game Station\\Desktop\\mvcprojesi\\mvcprojesi\\Views\\Kategori\\Index.cshtml",
+              "RelativeDocumentMoniker": "mvcprojesi\\Views\\Kategori\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Work\u0026Game Station\\Desktop\\mvcprojesi\\mvcprojesi\\Views\\Kategori\\Index.cshtml",
+              "RelativeToolTip": "mvcprojesi\\Views\\Kategori\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-31T15:30:05.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "KategoriController.cs",
+              "DocumentMoniker": "C:\\Users\\Work\u0026Game Station\\Desktop\\mvcprojesi\\mvcprojesi\\Controllers\\KategoriController.cs",
+              "RelativeDocumentMoniker": "mvcprojesi\\Controllers\\KategoriController.cs",
+              "ToolTip": "C:\\Users\\Work\u0026Game Station\\Desktop\\mvcprojesi\\mvcprojesi\\Controllers\\KategoriController.cs",
+              "RelativeToolTip": "mvcprojesi\\Controllers\\KategoriController.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAwwCQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T15:28:32.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_MainLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Work\u0026Game Station\\Desktop\\mvcprojesi\\mvcprojesi\\Views\\Shared\\_MainLayout.cshtml",
+              "RelativeDocumentMoniker": "mvcprojesi\\Views\\Shared\\_MainLayout.cshtml",
+              "ToolTip": "C:\\Users\\Work\u0026Game Station\\Desktop\\mvcprojesi\\mvcprojesi\\Views\\Shared\\_MainLayout.cshtml",
+              "RelativeToolTip": "mvcprojesi\\Views\\Shared\\_MainLayout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-31T15:27:04.089Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

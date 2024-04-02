@@ -1,0 +1,23 @@
+﻿@Model mvcproje.Models.Entity
+@{
+    ViewBag.Title = "Musterigetir";
+    Layout = "~/Views/Shared/_MainLayout.cshtml";
+}
+
+@using (Html.BeginForm("Guncelle","Musteri", FormMethod.Post))
+            {
+                <div>
+                    @Html.LabelFor(m => m.Musteriid)
+                    @Html.TextBoxFor(m => m.Musteriid, new { @class = "form-control" })
+                    <br />
+                    @Html.LabelFor(m => m.Musteriad)
+                    @Html.TextBoxFor(m => m.Musteriad, new { @class = "form-control" })
+                    <br />
+                    @Html.LabelFor(m => m.Musteriadsoyad)
+                    @Html.TextBoxFor(m => m.Musteriadsoyad, new { @class = "form-control" })
+                </div>
+                <div>
+                    <button class="btn btn-warning">Müşteri güncelle</button>
+                </div>
+            }
+

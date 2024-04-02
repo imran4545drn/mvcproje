@@ -1,0 +1,20 @@
+﻿@using mvcprojesi.Models.Entity
+@{
+    ViewBag.Title = "Kategorigetir";
+    Layout = "~/Views/Shared/_MainLayout.cshtml";
+}
+
+@using (Html.BeginForm("Guncelle", "Kategori", FormMethod.Post))
+{
+    <div class="form-group">
+        @Html.LabelFor(m => m.Kategoriid)
+        @Html.TextBoxFor(m => m.Kategoriid, new { @class = "form-control" })
+        <br />
+        @Html.LabelFor(m => m.Kategoriad)
+        @Html.TextBoxFor(m => m.Kategoriad, new { @class = "form-control" })
+
+    </div>
+    <div>
+        <button class="btn btn-warning">Kategori güncelle</button>
+    </div>
+}
